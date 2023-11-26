@@ -24,3 +24,8 @@ Alternate Hypothesis : The location of a sector has an impact on the amount of f
 4. Which year received the highest funding
 5. What is the funding trend in the Indian start-up ecosystem over the past few years
  
+# Recommendation
+ From our visualization we recommend to the new investors that location of the start up does not matter that they can invest any where in Indian ecosystem
+
+ # Conclusion
+ From the analysis we find out that location has no effect on the amount of start of funding because Bangalore has the highest sector location but Mumbai has the highest start-up funding
